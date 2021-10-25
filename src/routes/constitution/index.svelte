@@ -354,7 +354,18 @@
             Rookie draft picks will be granted to all teams for the current and future seasons.
         </li>
         <li>
-            The draft order is determined by the “Potential Points” ranking (the highest possible points you could have gotten), which is to prevent tanking.
+            Draft order is as follows
+            <ul>
+                <li>
+                Picks 1-6 are from lowest to highest regular season max PF for non-playoff teams.
+                </li>
+                <li>
+                Picks 7-8 are from lowest to highest regular season max PF for the 2 playoff teams that did not advance past the first round.
+                </li>
+                <li>
+                Picks 9-12 are based on playoff finish, with the champion getting the last pick.
+                </li>
+            </ul>
         </li>
         <li>
             The rookie draft will be a long-running online draft, using the league software, starting on 1st Sunday of June at 12:00 PM EST. Owners are expected to plan around being available on this date and in the subsequent days / weeks to ensure an expeditious draft.
@@ -498,7 +509,7 @@
                     Week 16: 1st vs. lowest remaining | 2nd vs. highest remaining
                 </li>
                 <li>
-                    Week 17; CHAMPIONSHIP
+                    Week 17; CHAMPIONSHIP | 3rd place Matchup
                 </li>
             </ol>
         </li>
