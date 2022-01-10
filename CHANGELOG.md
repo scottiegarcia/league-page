@@ -2,6 +2,59 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.16] - 2022-01-06
+
+### Fixed
+
+- Bug that would freeze pages if an incomplete draft blog post exists
+
+## [1.2.15] - 2022-01-06
+
+### Changed
+
+- Upgraded [SMUI](https://sveltematerialui.com/) version from 4 to 6
+    - This gives better compatibility with windows deployments and improves some functionality
+    - Removes the need for the VITE workaround script
+    - Adds TS compatibility for those interested
+
+## [1.2.14] - 2021-01-05
+
+### Added
+
+- Big thank you to [OldNewsBlues](https://github.com/OldNewsBlues) for implementing this
+    - Added `Single Week Scoring Lows` and `Season-long Scoring Lows`
+    - Cleaned up records interface
+
+### Changed
+
+- Season long record tables are now sorted by PPG (to offset the expanded NFL seasons and more accurately capture the rankings)
+
+## [1.2.13] - 2022-01-05
+
+### Fixed
+
+- Trophies page bug reported in [issue #95](https://github.com/nmelhado/league-page/issues/95)
+
+## [1.2.12] - 2022-01-05
+
+### Fixed
+
+- Minor bug fixes league in pre-season
+
+## [1.2.11] - 2021-01-03
+
+### Added
+
+- PPG Records [#92](https://github.com/nmelhado/league-page/issues/92)
+    - Big thank you to [OldNewsBlues](https://github.com/OldNewsBlues) for implementing this
+
+## [1.2.10] - 2022-01-03
+
+### Fixed
+
+- Bug that affects playoff matchup and standings 
+    - Reported in issue [#98](https://github.com/nmelhado/league-page/issues/98)
+
 ## [1.2.7] - 2021-10-20
 
 ### Fixed
