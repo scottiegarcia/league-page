@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the home page for the Tomcat Dynasty League! I will put more helpful info here later.</p>
+  <p>Welcome to the home page for the Tomcat Dynasty League! This league consists of 12 non-rodent alumni of the one and only Alpha Mu - current alumnus status nothwithstanding.</p>
 `;
 
 /*   STEP 3   */
