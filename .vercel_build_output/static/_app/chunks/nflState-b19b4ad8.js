@@ -1,1 +1,0 @@
-import{ae as o}from"./vendor-60eb0dec.js";import{n as r}from"./news-c1036290.js";const c=async()=>{if(o(r).season)return o(r);const s=await fetch("https://api.sleeper.app/v1/state/nfl",{compress:!0}).catch(t=>{console.error(t)}),e=await s.json().catch(t=>{console.error(t)});if(s.ok)return r.update(()=>e),e;throw new Error(e)};export{c as g};
